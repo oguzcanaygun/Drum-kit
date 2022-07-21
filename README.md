@@ -1,2 +1,2 @@
 # Drum-kit
-Drum kit (London App Bravery Exercise)
+Drum kit (London App Brewery Exercise)
