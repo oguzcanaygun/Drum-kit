@@ -1,3 +1,3 @@
 # Drum-kit
 <br><br>
-![](images/6occ3i.gif)
+<img src="images/6occ3i.gif" width="1000">
